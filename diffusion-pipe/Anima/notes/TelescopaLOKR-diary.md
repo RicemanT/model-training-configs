@@ -7,7 +7,7 @@ The aim of this finetune include:
 
 - Practicing for the first time on how to finetune a image model, particularly of datasets with 10k+ samples
 - Attempting to improve Anima background generation quality and ability through the use of a pure manually curated (by hand) aesthetic dataset. (Designated as non important side goal, not likely to work)
-- Testing of differences in training practice and results between Full-Finetuning and Full Matrix LoKr [LoRA variant introduced by Kblueleaf and his LyCoRIS library](https://github.com/kohakublueleaf/lycoris) [Arxiv](https://arxiv.org/abs/2309.14859)
+- Testing of differences in training practice and results between Full-Finetuning and Full Matrix LoKr, which is a cheaper (but slower) method of training with similar result as regular finetuning [LoRA variant introduced by Kblueleaf and his LyCoRIS library](https://github.com/kohakublueleaf/lycoris) [Arxiv](https://arxiv.org/abs/2309.14859)
 
 
 ## Preamble / Disclaimers
